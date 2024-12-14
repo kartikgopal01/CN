@@ -1,3 +1,4 @@
+//4
 public class CRC16 { 
     private static final int POLYNOMIAL = 0xA001; 
 
